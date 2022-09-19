@@ -1,0 +1,141 @@
+#title {
+  background-color: #ff4c68;
+}
+
+#h1title {
+
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+  /* font-weight: bold; */
+}
+
+h3 {
+  font-family: "Montserrat-Bold";
+  font-size: 1.5;
+  text-align: center;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+
+}
+
+body {
+  font-family: 'Montserrat';
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+
+}
+
+.navbar {
+  padding: 0 0 4.5rem 0;
+}
+
+.nav-item {
+  padding-left: 18px;
+  padding-right: 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light"
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+  font-family: "Montserrat-Light"
+}
+
+.title-image {
+  width: 60%;
+  transform: rotate(25deg);
+}
+
+.fa-solid {
+  color: pink;
+  font-size: 2.5rem;
+
+}
+
+.fa-solid:hover {
+  color: blueviolet;
+}
+
+#features {
+  padding: 7% 15%;
+}
+
+.feature-box {
+  text-align: center;
+}
+
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: pink;
+}
+
+.testimonial-image {
+
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;
+
+
+}
+
+#press {
+  background-color: pink;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-image {
+  width: 15%;
+}
+
+#pricing {
+  text-align: center;
+  font-family: "Montserrat";
+  color: #ff4c68;
+}
+
+h2 {
+  margin-top: 20px;
+  font-family: "Montserrat-Light";
+  font-weight: bold;
+}
+
+.card-headerH {
+  font-weight: bold;
+  font-family: "Montserrat-Light";
+}
+
+.PriceP {
+  font-family: "Montserrat-Light";
+  color: #ff4c68;
+}
+
+#cta {
+  margin-top: 20px;
+  color: #ff4c68;
+  text-align: center;
+}
+
+#downApple {
+  margin: 20px, 30px, 20px, 0px;
+  font-family: "Montserrat-Light";
+}
+
+#downPlay {
+  margin: 20px, 30px, 20px, 0px;
+  font-family: "Montserrat-Light";
+}
+
+#footer {
+  color: #ff4c68;
+}
